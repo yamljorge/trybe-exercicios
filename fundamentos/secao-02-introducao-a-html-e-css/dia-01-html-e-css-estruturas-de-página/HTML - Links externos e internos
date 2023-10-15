@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+      <ul>
+        <li><a href="#Adilson">Adilson</a></li>
+        <li><a href="#Vinicius">Vinicius</a></li>
+        <li><a href="#Erickson">Erickson</a></li>
+        <li><a href="Wilson">Wilson</a></li>
+        <li><a href="Juliana">Juliana</a></li>
+      </ul>
+      <img src=""https://www.betrybe.com/formacao-desenvolvimento-web alt="imagem site trybe">
+
+      <p id="Adilson">Adilson é um mestre do desenvolvimento web, conhecido por sua proficiência em diversas linguagens de programação. Sua capacidade de criar sites e aplicativos altamente funcionais é notável, e ele é habilidoso em resolver desafios complexos de programação. Adilson é um desenvolvedor web versátil e inovador, que sempre está atualizado com as últimas tendências tecnológicas.</p>
+      <p id="Vinicius">Vinicius é um especialista em UX (experiência do usuário) e design de interfaces. Ele combina habilidades de programação com uma visão estética excepcional para criar sites e aplicativos visualmente atraentes e intuitivos. Sua atenção aos detalhes e foco na usabilidade tornam as experiências online incrivelmente agradáveis para os usuários.</p>
+      <p id="Erickson">Erickson é um guru de segurança cibernética e proteção de dados. Sua expertise inclui a implementação de medidas de segurança avançadas para garantir a integridade de sistemas web. Ele é capaz de identificar vulnerabilidades e mitigar riscos, tornando os projetos online que ele gerencia altamente seguros.</p>
+      <p id="Wilson">Wilson é um desenvolvedor full-stack com uma habilidade excepcional para criar soluções de ponta a ponta. Ele domina tanto o desenvolvimento de front-end quanto de back-end, o que o torna capaz de criar sistemas web completos. Sua versatilidade é um trunfo, pois ele pode liderar projetos de desenvolvimento com eficiência.</p>
+      <p id="Juliana">Juliana é uma designer web talentosa, que traz uma estética única e criativa para o desenvolvimento web. Ela é especialista em criar interfaces atraentes e amigáveis, tornando a experiência do usuário cativante. Seu trabalho é uma fusão de design e tecnologia, resultando em sites e aplicativos que se destacam visualmente.</p>
+      <a href="https://www.google.com.br/?hl=pt-BR"></a>      
+  </body>
+</html>
