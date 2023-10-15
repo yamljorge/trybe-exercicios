@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <h2>Lista de pessoas que conheci na Trybe</h2>
+    <ol>
+        <li>Carolzita</li>
+        <li>Thalles</li>
+        <li>Amanda</li>
+        <li>Farid</li>
+        <li>Laine</li>
+        <li>Samanta</li>
+        <li>MariD</li>
+    </ol>
+    <img src="https://lh3.googleusercontent.com/J2S0OYdBVqA7qi-s2tch2ln33c2OEF4DiBGjuJpTMwzfnrXk_dUS4HGcsUB7p5ubsZ3y6XF2CyFMzK9ua1IzSS8F28KK8fwKKrI=w425">
+    <img src="yam.jpg">
+  </body>
+</html>
