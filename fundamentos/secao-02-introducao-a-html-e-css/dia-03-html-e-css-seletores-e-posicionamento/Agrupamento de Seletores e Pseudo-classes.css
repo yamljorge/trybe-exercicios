@@ -1,0 +1,16 @@
+h1 , p {
+    text-align: center;
+}
+li:hover , li:active {
+    background-color: green;
+    color: red;
+}
+
+li {
+    font-style: italic; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px
+}
+ li{
+    list-style: none;
+ }
