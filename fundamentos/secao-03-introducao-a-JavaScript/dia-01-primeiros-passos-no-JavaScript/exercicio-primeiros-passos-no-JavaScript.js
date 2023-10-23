@@ -97,7 +97,7 @@ if ((nu1 / 2 === 0 || nu2 / 2 === 0 || nu3 / 2 === 0)) { Par = true;
 };
 console.log(Par);
 
-//Exercicio 7
+//Exercicio 7//
 
 let aliquotaINSS;
 let aliquotaIR;
