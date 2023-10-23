@@ -1,5 +1,9 @@
 //Array e estrutura de repetição
 
+//Template literals
+
+
+
 const produto = 'Iphone 15';
 const preço = 12895;
 const desconto = 33;
