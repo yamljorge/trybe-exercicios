@@ -1,8 +1,6 @@
 //Array e estrutura de repetição
 
-//Template literals
-
-
+//Template literals ${}
 
 const produto = 'Iphone 15';
 const preço = 12895;
@@ -15,5 +13,3 @@ Desconto: ${desconto}%
 Preço com desconto: ${(preço - (preço * (desconto / 100))).toFixed(2)}`;
 
 console.log(mensagem);
-
-
